@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="global_button_enable_false">#cfd9de</color>
+    <color name="global_button_start_color">#689df3</color>
+    <color name="global_button_end_color">#5786d2</color>
+    <color name="global_button_text_color">#ffffff</color>
+    <color name="global_button_press_color">#7fabf4</color>
+
+
+</resources>

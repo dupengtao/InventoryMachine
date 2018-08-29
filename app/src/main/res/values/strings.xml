@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">盘点机</string>
+    <string name="login_title">盘点机</string>
+    <string name="login_sub_title">帮助客户端更成功</string>
+    <string name="login_record_username">记住用户名</string>
+    <string name="login_username">用户名</string>
+    <string name="login_password">密码</string>
+    <string name="login_text">登录</string>
+    <string name="login_version">版本: %s</string>
+    <string name="not_empty">%s不能为空</string>
+    <string name="choose_store_hint">点击选择本店面</string>
+    <string name="choose_store_title">选择门面</string>
+    <string name="choose_store_logout">退出</string>
+</resources>
